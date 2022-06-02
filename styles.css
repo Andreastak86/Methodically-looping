@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(86, 73, 168);
+  color: rgb(37, 2, 2);
+  text-align: center;
+}
+#myText {
+  font-style: italic;
+  font-size: 20px;
+}
